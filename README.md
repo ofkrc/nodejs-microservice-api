@@ -8,7 +8,7 @@ Bu proje, Node.js ve MongoDB kullanılarak geliştirilmiş bir mikroservis API �
 - Ürün yönetimi (CRUD işlemleri)
 - Sipariş yönetimi (Oluşturma, İptal, Durum Güncelleme)
 - MongoDB veritabanı entegrasyonu
-- RESTful API tasarımıı
+- RESTful API tasarımı
 
 ## Gereksinimler
 
